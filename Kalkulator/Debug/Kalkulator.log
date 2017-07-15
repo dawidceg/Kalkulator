@@ -1,0 +1,5 @@
+﻿  Plansza.cpp
+c:\users\dawid\documents\visual studio 2017\projects\kalkulator\kalkulator\Plansza.h(787): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Pomoc.cpp
+  Generowanie kodu...
+  Kalkulator.vcxproj -> C:\Users\Dawid\Documents\Visual Studio 2017\Projects\Kalkulator\Debug\Kalkulator.exe
